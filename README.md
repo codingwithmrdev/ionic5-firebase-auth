@@ -1,0 +1,1 @@
+Ionic 5 Firebase email Authentication, you can find the tutorial article on my blog - https://codingwithmr.dev/ionic-5-firebase-email-authentication/
