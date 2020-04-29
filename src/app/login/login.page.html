@@ -19,6 +19,11 @@
 
   <ion-button expand="block" class="ion-margin-vertical" (click)="login()">LOGIN</ion-button>
 
+  <ion-button  expand="block" class="ion-margin-vertical" (click)="fblogin()">
+    <ion-icon slot="start" name="logo-facebook"></ion-icon>
+    Login with Facebook
+  </ion-button>
+
   <div class="ion-text-center">
     Don't have an account? <span routerLink="/register" routerDirection="forward">Sign-up</span>
   </div>
